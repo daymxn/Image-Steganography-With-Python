@@ -1,3 +1,12 @@
+# UPDATE
+I am currently completely rewriting this from the ground up. It'll feature;
+- Industry standard coding practices
+- JPG support
+- Modular programming
+- Inline Documentation
+- Custom implementations of lower end image manipulation modules
+And more. Currently no ETA.
+
 # Overview
 
 Image steganography is the process of hiding information within an image. This program is utilized to hide a text based message within an image. 
